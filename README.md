@@ -298,6 +298,7 @@ What can you expect to see here?
 * [Prometheus](https://github.com/prometheus/mesos_exporter) and [Prometheus](https://github.com/wndhydrnt/mesos-task-exporter)
 * https://github.com/kpacha/mesos-influxdb-collector
 * [Complainer](https://github.com/cloudflare/complainer)
+* [Datadog](https://www.datadoghq.com/blog/monitor-mesos-cluster-datadog/)
 
 ###Service discovery and Load balancing
 * [Automated HAProxy reconfiguration for Marathon](https://github.com/Wizcorp/frontrunner)
